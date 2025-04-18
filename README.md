@@ -81,4 +81,3 @@ npm run web
 
 # ou rodar no Expo Go
 npm start
->>>>>>> e3b12d62596322c03c1b436d3c80dcea9b153a59
